@@ -5,4 +5,4 @@ More info in "documentation.pdf"
 
 Trajectories can be viewed in Matlab script zobraz.m
 
-Program fortran.for can be controled and viewed through trubka writen in Qt.
+Program trubka.for can be controled and viewed through trubka writen in Qt.
